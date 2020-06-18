@@ -1,0 +1,42 @@
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+  background-color: #b4fadc;
+  text-align: center;
+  border-style: double;
+  border-color: #01dd8e;
+  border-width: 10px;
+}
+.header {
+  color: black;
+}
+
+.header__type2 {
+font-style: italic;
+ color: black;
+}
+
+.section__name {
+  font-family: 'Pacifico', cursive;
+    font-style: initial;
+    font-weight: 900;
+    font-stretch: ultra-expanded;
+    color: #ff7f50;
+    text-align: center;
+  }
+.section__text1 {
+    font-weight: 200;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+  }
+  .section__text2 {
+      font-weight: 200;
+      color: #ff7f50;
+      text-align: center;
+    }
+
+.section__text3, .section__text4 {
+    font-weight: 100;
+    color: black;
+    text-align: right;
+    }
