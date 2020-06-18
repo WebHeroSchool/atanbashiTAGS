@@ -1,4 +1,5 @@
 body {
+  font-family: 'IBM Plex Sans', sans-serif;
   background-color: #b4fadc;
   text-align: center;
   border-style: double;
@@ -6,18 +7,16 @@ body {
   border-width: 10px;
 }
 .header {
-  font-family: Times,sans-serif;
   color: black;
 }
 
 .header__type2 {
-  font-family: Times,sans-serif;
-  font-style: italic;
+font-style: italic;
  color: black;
 }
 
 .section__name {
-    font-family: "Gill Sans", sans-serif;
+  font-family: 'Pacifico', cursive;
     font-style: initial;
     font-weight: 900;
     font-stretch: ultra-expanded;
@@ -25,24 +24,19 @@ body {
     text-align: center;
   }
 .section__text1 {
-    font-family: fantasy, arial;
     font-weight: 200;
     color: black;
     text-align: center;
     text-decoration: underline;
   }
   .section__text2 {
-      font-family: fantasy, arial;
       font-weight: 200;
       color: #ff7f50;
       text-align: center;
     }
 
 .section__text3, .section__text4 {
-    font-family: fantasy, arial;
     font-weight: 100;
     color: black;
     text-align: right;
     }
-
-    
